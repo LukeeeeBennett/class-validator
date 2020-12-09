@@ -40,13 +40,6 @@ $RECYCLE.BIN/
 # IDE - IntelliJ
 .idea
 
-# Compilation output folders
-dist/
-build/
-tmp/
-out-tsc/
-temp
-
 # Files for playing around locally
 playground.ts
 playground.js
